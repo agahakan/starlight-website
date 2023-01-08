@@ -8,7 +8,7 @@ function Footer() {
       <div class='footer-links'>
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
-            <h2>Explorer STARLIGHT</h2>
+            <h2>Explorer</h2>
             <Link to='/'>Solutions</Link>
             <Link to='/'>Produits</Link>
             <Link to='/'>Services</Link>
