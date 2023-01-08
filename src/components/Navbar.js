@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react';
-import { Link } from 'react-router-dom';
+import { Link } from 'react-scroll';
 import './Navbar.css';
 
 function Navbar() {
@@ -25,7 +25,7 @@ function Navbar() {
         <>
             <nav className='navbar'>
                 <div className='navbar-container'>
-                    <Link to='/' className="navbar-logo" onClick={closeMobileMenu}>
+                    <Link to="hero" spy={true} smooth={true} offset={-100} duration={500} className='navbar-logo' onClick={closeMobileMenu}>
                         <img className='logo' src={require('../img/Logo.png')} alt='logo' />
                         STARLIGHT
                     </Link>
@@ -34,17 +34,22 @@ function Navbar() {
                     </div>
                     <ul className={click ? 'nav-menu active' : 'nav-menu'}>
                         <li className='nav-item'>
-                            <Link to='/' className='nav-links' onClick={closeMobileMenu}>
+                            <Link to="hero" spy={true} smooth={true} offset={-100} duration={500} className='nav-links' onClick={closeMobileMenu}>
                                 Accueil
                             </Link>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/produits' className='nav-links' onClick={closeMobileMenu}>
+                            <Link to="solutions" spy={true} smooth={true} offset={-200} duration={500} className='nav-links' onClick={closeMobileMenu}>
+                                Solutions
+                            </Link>
+                        </li>
+                        <li className='nav-item'>
+                            <Link to="produits" spy={true} smooth={true} offset={50} duration={500} className='nav-links' onClick={closeMobileMenu}>
                                 Produits
                             </Link>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/services' className='nav-links' onClick={closeMobileMenu}>
+                            <Link to="services" spy={true} smooth={true} offset={50} duration={500} className='nav-links' onClick={closeMobileMenu}>
                                 Services
                             </Link>
                         </li>
