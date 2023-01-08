@@ -12,17 +12,17 @@ function ProductSection() {
             <ProductItem
               src='img/Product 1.png'
               text='Brosse à dent connecté SHINY BRUSH™'
-              path='/#solutions'
+              path='/#products'
             />
             <ProductItem
               src='img/Product 2.png'
               text='Balance connecté SUN-LI SCALE™'
-              path='/#solutions'
+              path='/#products'
             />
             <ProductItem
               src='img/Product 3.png'
               text='Surveillance de la santé'
-              path='/#solutions'
+              path='/#products'
             />
           </ul>
         </div>
