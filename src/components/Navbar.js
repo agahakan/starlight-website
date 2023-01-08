@@ -44,7 +44,7 @@ function Navbar() {
                             </Link>
                         </li>
                         <li className='nav-item'>
-                            <Link to="produits" spy={true} smooth={true} offset={50} duration={500} className='nav-links' onClick={closeMobileMenu}>
+                            <Link to="produits" spy={true} smooth={true} offset={-100} duration={500} className='nav-links' onClick={closeMobileMenu}>
                                 Produits
                             </Link>
                         </li>
