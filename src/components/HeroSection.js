@@ -5,7 +5,7 @@ import './HeroSection.css';
 
 function HeroSection() {
   return (
-    <div className='hero-container'>
+    <div className='hero-container' id='hero'>
         <h1>S'unir pour faire briller la santé</h1>
         <p>Starlight et ses distributeurs agrées s'unissent pour relever les défis d'un monde de la santé en constante évolution.</p>
         <div className='hero-btns'>

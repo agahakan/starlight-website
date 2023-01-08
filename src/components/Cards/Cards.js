@@ -12,29 +12,29 @@ function Cards() {
             <CardItem
               src='img/Image Box 1.png'
               text='Suivi médical irréprochable'
-              path='/services'
+              path='/#solutions'
             />
             <CardItem
               src='img/Image Box 2.png'
               text='Prévenir pour diagnostiquer'
-              path='/services'
+              path='/#solutions'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
               src='img/Image Box 3.png'
               text='Surveillance de la santé'
-              path='/services'
+              path='/#solutions'
             />
             <CardItem
               src='img/Image Box 4.png'
               text="Optimiser l'efficacité"
-              path='/products'
+              path='/#solutions'
             />
             <CardItem
               src='img/Image Box 5.png'
               text='Voir toutes les solutions'
-              path='/products'
+              path='/#solutions'
             />
           </ul>
         </div>
