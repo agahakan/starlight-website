@@ -16,11 +16,11 @@ Avant de pouvoir exécuter ce site Web, vous aurez besoin des éléments suivant
 
 Pour installer les packages et les dépendances requis, procédez comme suit :
 
-1. Clonez ce référentiel sur votre ordinateur local :
+1. Clonez ce dépot sur votre ordinateur local :
 ```
 git clone https://github.com/agahakan/starlight-website.git
 ```
-2. Accédez au répertoire racine du référentiel :
+2. Accédez au répertoire racine du dépot :
 ```
 cd starlight-website
 ```
@@ -32,7 +32,7 @@ npm install
 ### Lancer le site
 
 Pour exécuter le site Web localement, procédez comme suit :
-1. Accédez au répertoire racine du référentiel :
+1. Accédez au répertoire racine du dépot :
 ```
 cd starlight-website
 ```
@@ -44,11 +44,11 @@ npm start
 
 ## Contribuant
 
-Nous accueillons les contributions à notre référentiel ! Si vous avez une idée pour une nouvelle fonctionnalité ou si vous avez trouvé un bogue que vous souhaitez signaler, veuillez ouvrir un problème dans l'onglet Problèmes de ce référentiel.
+Nous accueillons les contributions à notre dépot ! Si vous avez une idée pour une nouvelle fonctionnalité ou si vous avez trouvé un bogue que vous souhaitez signaler, veuillez ouvrir un problème dans l'onglet Problèmes de ce dépot.
 
 ## Licence
 
-Ce référentiel et le code qu'il contient sont sous licence MIT. N'hésitez pas à utiliser et à modifier le code pour l'adapter à vos besoins.
+Ce dépot et le code qu'il contient sont sous licence MIT. N'hésitez pas à utiliser et à modifier le code pour l'adapter à vos besoins.
 
 # -english-
 Welcome to the Starlight Website repository!
