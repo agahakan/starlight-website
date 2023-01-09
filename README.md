@@ -29,7 +29,7 @@ cd starlight-website
 npm install
 ```
 
-### Gérer le site Web
+### Lancer le site
 
 Pour exécuter le site Web localement, procédez comme suit :
 1. Accédez au répertoire racine du référentiel :
