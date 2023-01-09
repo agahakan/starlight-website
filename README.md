@@ -42,9 +42,9 @@ npm start
 ```
 3. Ouvrez votre navigateur Web et accédez à http://localhost:3000 pour afficher le site Web.
 
-## Contribuant
+## Contribuer
 
-Nous accueillons les contributions à notre dépot ! Si vous avez une idée pour une nouvelle fonctionnalité ou si vous avez trouvé un bogue que vous souhaitez signaler, veuillez ouvrir un problème dans l'onglet Problèmes de ce dépot.
+Nous accueillons les contributions à notre dépot ! Si vous avez une idée pour une nouvelle fonctionnalité ou si vous avez trouvé un bug que vous souhaitez signaler, veuillez ouvrir un issue dans l'onglet 'Issues" de ce dépot.
 
 ## Licence
 
