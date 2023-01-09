@@ -1,4 +1,4 @@
-# Starlight EQUIPE 2 Arnaud THOMAS, Laurène ARNOULD, Antoine SCHIRR, Hakan ARIK, Alexandre BELLAMY
+# Starlight EQUIPE H2 Arnaud THOMAS, Laurène ARNOULD, Antoine SCHIRR, Hakan ARIK, Alexandre BELLAMY
 Bienvenue dans le dépôt du site Starlight !
 Ce dépôt contient le code du site web Starlight construit à l'aide de ReactJS.
 
