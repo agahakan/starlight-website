@@ -1,16 +1,16 @@
 # Starlight EQUIPE 2 Arnaud THOMAS, Laurène ARNOULD, Antoine SCHIRR, Hakan ARIK, Alexandre BELLAMY
-Bienvenue dans le dépôt du site Web Starlight !
-Ce dépôt contient le code du site Web Starlight construit à l'aide de ReactJS.
+Bienvenue dans le dépôt du site Starlight !
+Ce dépôt contient le code du site web Starlight construit à l'aide de ReactJS.
 
 Starlight est une entreprise spécialisée dans la création d'appareils de santé connectés.
 Notre objectif est d'aider les gens à vivre une vie plus saine en leur fournissant une technologie innovante qui facilite le suivi et l'amélioration de leur santé.
 
 ### Prérequis
 
-Avant de pouvoir exécuter ce site Web, vous aurez besoin des éléments suivants :
+Avant de pouvoir exécuter ce site web, vous aurez besoin des éléments suivants :
 
 -Node.js et npm (inclus avec Node.js)
--Un navigateur Web moderne (tel que Google Chrome ou Mozilla Firefox)
+-Un navigateur web moderne (tel que Google Chrome ou Mozilla Firefox)
 
 ### Installation
 
@@ -31,7 +31,7 @@ npm install
 
 ### Lancer le site
 
-Pour exécuter le site Web localement, procédez comme suit :
+Pour exécuter le site localement, procédez comme suit :
 1. Accédez au répertoire racine du dépot :
 ```
 cd starlight-website
@@ -40,7 +40,7 @@ cd starlight-website
 ```
 npm start
 ```
-3. Ouvrez votre navigateur Web et accédez à http://localhost:3000 pour afficher le site Web.
+3. Ouvrez votre navigateur et accédez à http://localhost:3000 pour afficher le site.
 
 ## Contribuer
 
