@@ -1,5 +1,56 @@
-# Starlight
+# Starlight EQUIPE 2 Arnaud THOMAS, Laurène ARNOULD, Antoine SCHIRR, Hakan ARIK, Alexandre BELLAMY
+Bienvenue dans le dépôt du site Web Starlight !
+Ce dépôt contient le code du site Web Starlight construit à l'aide de ReactJS.
 
+Starlight est une entreprise spécialisée dans la création d'appareils de santé connectés.
+Notre objectif est d'aider les gens à vivre une vie plus saine en leur fournissant une technologie innovante qui facilite le suivi et l'amélioration de leur santé.
+
+### Prérequis
+
+Avant de pouvoir exécuter ce site Web, vous aurez besoin des éléments suivants :
+
+-Node.js et npm (inclus avec Node.js)
+-Un navigateur Web moderne (tel que Google Chrome ou Mozilla Firefox)
+
+### Installation
+
+Pour installer les packages et les dépendances requis, procédez comme suit :
+
+1. Clonez ce référentiel sur votre ordinateur local :
+```
+git clone https://github.com/agahakan/starlight-website.git
+```
+2. Accédez au répertoire racine du référentiel :
+```
+cd starlight-website
+```
+3. Installez les packages requis :
+```
+npm install
+```
+
+### Gérer le site Web
+
+Pour exécuter le site Web localement, procédez comme suit :
+1. Accédez au répertoire racine du référentiel :
+```
+cd starlight-website
+```
+2. Démarrez le serveur de développement :
+```
+npm start
+```
+3. Ouvrez votre navigateur Web et accédez à http://localhost:3000 pour afficher le site Web.
+
+## Contribuant
+
+Nous accueillons les contributions à notre référentiel ! Si vous avez une idée pour une nouvelle fonctionnalité ou si vous avez trouvé un bogue que vous souhaitez signaler, veuillez ouvrir un problème dans l'onglet Problèmes de ce référentiel.
+
+## Licence
+
+Ce référentiel et le code qu'il contient sont sous licence MIT. N'hésitez pas à utiliser et à modifier le code pour l'adapter à vos besoins.
+
+# -english-
 Welcome to the Starlight Website repository!
 This repository contains the code for the Starlight website built using the React JavaScript library.
 
