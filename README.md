@@ -10,7 +10,7 @@ Starlight's goal is to help people live healthier lives by providing them with i
 
 Before you can run this website, you will need the following:
 
--Node.js and npm (included with Node.js)
+-Node.js and npm (included with [Node.js](http://nodejs.org/))
 -A modern web browser (such as Google Chrome or Mozilla Firefox)
 
 ## Installation & Running the Website
