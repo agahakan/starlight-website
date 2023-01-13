@@ -15,7 +15,7 @@ Before you can run this website, you will need the following:
 
 ## Installation & Running the Website
 
-To install the required packages and dependencies, follow these steps:
+#### To install the required packages and dependencies, follow these steps:
 
 If you are on Windows, you can just first run `Install.bat` and then `Run.bat`.
 
@@ -32,7 +32,7 @@ cd starlight-website
 npm install
 ```
 
-###To run the website locally, follow these steps:
+#### To run the website locally, follow these steps:
 1. Navigate to the root directory of the repository:
 ```
 cd starlight-website
