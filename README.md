@@ -17,6 +17,8 @@ Before you can run this website, you will need the following:
 
 To install the required packages and dependencies, follow these steps:
 
+If you are on Windows, you can just first run `Install.bat` and then `Run.bat`.
+
 1. Clone this repository to your local machine:
 ```
 git clone https://github.com/agahakan/starlight-website.git
