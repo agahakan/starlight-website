@@ -15,6 +15,11 @@ Before you can run this website, you will need the following:
 
 ## Installation & Running the Website
 
+If you are on Windows, you can follow those steps:
+- run `Install.bat`
+- run `Run.bat`
+- Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
 #### To install the required packages and dependencies, follow these steps:
 
 - Install the required packages:
@@ -22,16 +27,7 @@ Before you can run this website, you will need the following:
 npm install
 ```
 
-If you are on Windows, you can follow those steps instead:
-- run `Install.bat`
-- run `Run.bat`
-- Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
 #### To run the website locally, follow these steps:
-- Navigate to the root directory of the repository:
-```
-cd starlight-website
-```
 - Start the development server:
 ```
 npm start
