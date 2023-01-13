@@ -4,16 +4,16 @@ This repository contains the code for the Starlight website built using the Reac
 Starlight is an imaginary company from a Business Game that specializes in creating connected health devices for the Internet of Things (IoT).
 Starlight's goal is to help people live healthier lives by providing them with innovative technology that makes it easy to track and improve their health.
 
-## Getting Started
+# Getting Started
 
-### Prerequisites
+## Prerequisites
 
 Before you can run this website, you will need the following:
 
 -Node.js and npm (included with Node.js)
 -A modern web browser (such as Google Chrome or Mozilla Firefox)
 
-### Installation
+## Installation & Running the Website
 
 To install the required packages and dependencies, follow these steps:
 
@@ -32,9 +32,7 @@ cd starlight-website
 npm install
 ```
 
-### Running the Website
-
-To run the website locally, follow these steps:
+###To run the website locally, follow these steps:
 1. Navigate to the root directory of the repository:
 ```
 cd starlight-website
