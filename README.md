@@ -17,31 +17,26 @@ Before you can run this website, you will need the following:
 
 #### To install the required packages and dependencies, follow these steps:
 
-If you are on Windows, you can just first run `Install.bat` and then `Run.bat`.
-
-- 1. Clone this repository to your local machine:
-```
-git clone https://github.com/agahakan/starlight-website.git
-```
-- 2. Navigate to the root directory of the repository:
-```
-cd starlight-website
-```
-- 3. Install the required packages:
+- Install the required packages:
 ```
 npm install
 ```
 
+If you are on Windows, you can follow those steps instead:
+- run `Install.bat`
+- run `Run.bat`
+- Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
 #### To run the website locally, follow these steps:
-- 1. Navigate to the root directory of the repository:
+- Navigate to the root directory of the repository:
 ```
 cd starlight-website
 ```
-- 2. Start the development server:
+- Start the development server:
 ```
 npm start
 ```
-- 3. Open your web browser and go to http://localhost:3000 to view the website.
+- Open your web browser and go to http://localhost:3000 to view the website.
 
 ## Contributing
 
