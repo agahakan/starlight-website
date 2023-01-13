@@ -20,18 +20,18 @@ If you are on Windows, you can follow those steps:
 - Run `Run.bat`
 - Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-#### To install the required packages and dependencies, follow these steps:
+#### Follow these steps to set up and run the website locally:
 
-- Install the required packages:
+- Install the required packages and dependencies:
 ```
 npm install
 ```
 
-#### To run the website locally, follow these steps:
 - Start the development server:
 ```
 npm start
 ```
+
 - Open your web browser and go to http://localhost:3000 to view the website.
 
 ## Contributing
