@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/starlight-website/static/css/main.867799fc.css",
-    "main.js": "/starlight-website/static/js/main.1795aa58.js",
-    "static/media/Hero Header Slider 1.png": "/starlight-website/static/media/Hero Header Slider 1.328c16aabff14de11cc4.png",
-    "index.html": "/starlight-website/index.html",
-    "main.867799fc.css.map": "/starlight-website/static/css/main.867799fc.css.map",
-    "main.1795aa58.js.map": "/starlight-website/static/js/main.1795aa58.js.map"
+    "main.css": "./static/css/main.4b1ccd6a.css",
+    "main.js": "./static/js/main.1795aa58.js",
+    "static/media/Hero Header Slider 1.png": "./static/media/Hero Header Slider 1.328c16aabff14de11cc4.png",
+    "index.html": "./index.html",
+    "main.4b1ccd6a.css.map": "./static/css/main.4b1ccd6a.css.map",
+    "main.1795aa58.js.map": "./static/js/main.1795aa58.js.map"
   },
   "entrypoints": [
-    "static/css/main.867799fc.css",
+    "static/css/main.4b1ccd6a.css",
     "static/js/main.1795aa58.js"
   ]
 }
