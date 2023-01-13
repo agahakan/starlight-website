@@ -36,5 +36,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Welcome to the Starlight Website repository!\r This repository contains the code for the Starlight website built using the React JavaScript library.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agahakan/starlight-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agahakan/starlight-website/issues"
+  },
+  "homepage": "https://github.com/agahakan/starlight-website#readme"
 }
