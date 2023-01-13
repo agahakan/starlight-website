@@ -16,8 +16,8 @@ Before you can run this website, you will need the following:
 ## Installation & Running the Website
 
 If you are on Windows, you can follow those steps:
-- run `Install.bat`
-- run `Run.bat`
+- Run `Install.bat`
+- Run `Run.bat`
 - Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 #### To install the required packages and dependencies, follow these steps:
