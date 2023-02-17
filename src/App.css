@@ -14,7 +14,7 @@
 }
 
 .services {
-  background-image: url('../public/img/Hero Header Slider 1.png');
+  background-image: url('../public/img/hero-header-slider-1.png');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -23,7 +23,7 @@
 }
 
 .products {
-  background-image: url('../public/img/Hero Header Slider 1.png');
+  background-image: url('../public/img/hero-header-slider-1.png');
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -32,7 +32,7 @@
 }
 
 .sign-up {
-  background-image: url('../public/img/Hero Header Slider 1.png');
+  background-image: url('../public/img/hero-header-slider-1.png');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

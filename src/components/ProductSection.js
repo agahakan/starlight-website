@@ -10,17 +10,17 @@ function ProductSection() {
         <div className='products__wrapper'>
           <ul className='products__items'>
             <ProductItem
-              src='img/Product 1.png'
+              src='img/product-1.png'
               text='Brosse à dent connecté SHINY BRUSH™'
               path='/#products'
             />
             <ProductItem
-              src='img/Product 2.png'
+              src='img/product-2.png'
               text='Balance connecté SUN-LI SCALE™'
               path='/#products'
             />
             <ProductItem
-              src='img/Product 3.png'
+              src='img/product-3.png'
               text='Surveillance de la santé'
               path='/#products'
             />
